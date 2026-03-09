@@ -1,12 +1,12 @@
 # Predicting Hotel Cancellations: A Data-Driven Approach to Revenue Protection
 
-**One-line hook:** Using machine learning on 119,390 real bookings, this project identifies which reservations are most likely to cancel — giving hotel management the intelligence to act before the revenue disappears.
+**One-line hook:** Using machine learning on 119,390 real bookings, this project identifies which reservations are most likely to cancel - giving hotel management the intelligence to act before the revenue disappears.
 
 ---
 
 ## The Business Problem
 
-A Portuguese hotel chain is losing significant revenue to a 37% cancellation rate — meaning more than one in three reserved rooms ultimately sits empty. The hotel currently has no way to distinguish a high-risk booking from a reliable one at the time of reservation, forcing management into a reactive stance: either overbook aggressively (risking angry guests) or accept the losses. Without a predictive approach, the problem will only compound as online booking platforms make it increasingly easy for guests to cancel with no consequences.
+A Portuguese hotel chain is losing significant revenue to a 37% cancellation rate - meaning more than one in three reserved rooms ultimately sits empty. The hotel currently has no way to distinguish a high-risk booking from a reliable one at the time of reservation, forcing management into a reactive stance: either overbook aggressively (risking angry guests) or accept the losses. Without a predictive approach, the problem will only compound as online booking platforms make it increasingly easy for guests to cancel with no consequences.
 
 ## The Data
 
