@@ -2,6 +2,10 @@
 
 **One-line hook:** Using machine learning on 119,390 real bookings, this project identifies which reservations are most likely to cancel - giving hotel management the intelligence to act before the revenue disappears.
 
+## 📓 Notebooks — Open in Google Colab:
+
+https://colab.research.google.com/drive/1Q7fhucEUkrRt3t0VXXzuA16DHIkH_myq?usp=sharing
+
 ---
 
 ## The Business Problem
