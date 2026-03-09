@@ -1,6 +1,6 @@
 # Predicting Hotel Cancellations: A Data-Driven Approach to Revenue Protection
 
-**One-line hook:** Using machine learning on 119,000 real bookings, this project identifies which reservations are most likely to cancel — giving hotel management the intelligence to act before the revenue disappears.
+**One-line hook:** Using machine learning on 119,390 real bookings, this project identifies which reservations are most likely to cancel — giving hotel management the intelligence to act before the revenue disappears.
 
 ---
 
